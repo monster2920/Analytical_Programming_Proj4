@@ -1,0 +1,8 @@
+URLs,Subdirectories
+https://leetcode.com/,"['https:', '', 'leetcode.com', '']"
+https://leetcode.com/explore/,"['https:', '', 'leetcode.com', 'explore', '']"
+https://leetcode.com/contest/,"['https:', '', 'leetcode.com', 'contest', '']"
+https://leetcode.com/contest/globalranking/,"['https:', '', 'leetcode.com', 'contest', 'globalranking', '']"
+https://leetcode.com/problemset/,"['https:', '', 'leetcode.com', 'problemset', '']"
+https://leetcode.com/store/,"['https:', '', 'leetcode.com', 'store', '']"
+https://leetcode.com/subscribe/,"['https:', '', 'leetcode.com', 'subscribe', '']"

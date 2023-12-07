@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: my-package
+Version: 0.1.0
+Summary: A package for extracting and analyzing web data
+Home-page: https://github.com/monster2920/Analytical-Programming-Project/tree/main/Project%202
+Author: Sandeep Varma Uppalapati
+Author-email: u.s.varma2920@gmail.com
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+
+UNKNOWN
+
